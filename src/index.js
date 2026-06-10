@@ -3,6 +3,8 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 
+//Лекция про => Элементы и компоненты в React
+
 const text = 'Hello, React!'; 
 // JSX - JavaScript XML - расширение синтаксиса JavaScript, 
 // которое позволяет писать HTML-подобный код внутри JavaScript.  
